@@ -13,4 +13,8 @@ Die Kommunikation per Funk wurde mit einem *NRF24L01* realiert. \
 Um den Spannungsregler auf dem Arduino-Board nicht unnötig mit 12V zu belasten habe ich einen LM7808 vorgeschaltet, welcher die Eingangsspannung bereits auf 8V reduziert. Dies ist aber Optional. \
 \
 Entsprechend habe ich mir dafür einen eigenen Schaltplan entworfen und diesen auf dem Steckbrett getestet:
-![C9FBBE69-0695-41C5-B4AF-8689455A6226](https://github.com/larsbaum/Arduino-LED-Dimmer/assets/167971634/d3ce2f57-5f22-4485-9399-4e51348532e3)
+<img src="https://github.com/larsbaum/Arduino-LED-Dimmer/assets/167971634/d3ce2f57-5f22-4485-9399-4e51348532e3" alt="Schaltplan" width="70%" /> \
+\
+Das ganze funktioniert soweit. In der Firma in der ich Arbeite gibt es einen Platinenlaser für Prototypen. Diesen habe ich verwendet um das ganze auf eine Kompakte größe zu bringen.
+
+_..._
