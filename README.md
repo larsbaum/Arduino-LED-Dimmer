@@ -1,5 +1,4 @@
 # Arduino-LED-Dimmer
-Außenleuchten mit Touch-Display und Funk steuern
 
 Für unsere Terrassenüberdachung haben wir uns [diese](https://www.ledando.de/detail/index/sArticle/27312/sCategory/277) LED-Leuchten gekauft. Da uns eine einfache Fernbedienung nicht praktisch genug war, habe ich den mitgelieferten LED-Controller durch einen eigenen, mittels Arduino gesteuerten, ersetzt. Dieser kann nun über Funk mit einem ebenfalls Arduino-gesteuerten Touch-Display bedient werden. 
 
