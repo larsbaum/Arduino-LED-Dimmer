@@ -16,5 +16,8 @@ Entsprechend habe ich mir dafür einen eigenen Schaltplan entworfen und diesen a
 <img src="https://github.com/larsbaum/Arduino-LED-Dimmer/assets/167971634/d3ce2f57-5f22-4485-9399-4e51348532e3" alt="Schaltplan" width="50%" /> \
 \
 Das ganze funktioniert soweit. In der Firma in der ich Arbeite gibt es einen Platinenlaser für Prototypen. Diesen habe ich verwendet um das ganze auf eine Kompakte größe zu bringen.
+<img src="https://github.com/user-attachments/assets/853fa53f-cf95-43d3-8ba1-931d7caa89cb" alt="Platine" width="50%" />
 
-_..._
+
+_..._ 
+
